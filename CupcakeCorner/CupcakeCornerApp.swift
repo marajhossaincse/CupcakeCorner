@@ -11,8 +11,7 @@ import SwiftUI
 struct CupcakeCornerApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-            FormValidationComponent()
+            ContentView()
         }
     }
 }
