@@ -14,6 +14,7 @@
 		CE2BCF582AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BCF572AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift */; };
 		CE2BCF5A2AC9B49300C8650C /* URLSessionComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BCF592AC9B49300C8650C /* URLSessionComponent.swift */; };
 		CE3AD8B52AC9CA1000713C4D /* ImageFromServerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3AD8B42AC9CA1000713C4D /* ImageFromServerComponent.swift */; };
+		CE3AD8B72AC9CED700713C4D /* FormValidationComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3AD8B62AC9CED700713C4D /* FormValidationComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		CE2BCF572AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableForPublishedPropertiesComponent.swift; sourceTree = "<group>"; };
 		CE2BCF592AC9B49300C8650C /* URLSessionComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionComponent.swift; sourceTree = "<group>"; };
 		CE3AD8B42AC9CA1000713C4D /* ImageFromServerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageFromServerComponent.swift; sourceTree = "<group>"; };
+		CE3AD8B62AC9CED700713C4D /* FormValidationComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormValidationComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +61,10 @@
 			children = (
 				CE2BCF492AC9A5C400C8650C /* CupcakeCornerApp.swift */,
 				CE2BCF4B2AC9A5C400C8650C /* ContentView.swift */,
-				CE3AD8B42AC9CA1000713C4D /* ImageFromServerComponent.swift */,
 				CE2BCF572AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift */,
 				CE2BCF592AC9B49300C8650C /* URLSessionComponent.swift */,
+				CE3AD8B42AC9CA1000713C4D /* ImageFromServerComponent.swift */,
+				CE3AD8B62AC9CED700713C4D /* FormValidationComponent.swift */,
 				CE2BCF4D2AC9A5C600C8650C /* Assets.xcassets */,
 				CE2BCF4F2AC9A5C600C8650C /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				CE2BCF4C2AC9A5C400C8650C /* ContentView.swift in Sources */,
 				CE2BCF4A2AC9A5C400C8650C /* CupcakeCornerApp.swift in Sources */,
+				CE3AD8B72AC9CED700713C4D /* FormValidationComponent.swift in Sources */,
 				CE2BCF5A2AC9B49300C8650C /* URLSessionComponent.swift in Sources */,
 				CE3AD8B52AC9CA1000713C4D /* ImageFromServerComponent.swift in Sources */,
 				CE2BCF582AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift in Sources */,

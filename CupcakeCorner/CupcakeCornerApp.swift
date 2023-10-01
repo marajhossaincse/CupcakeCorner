@@ -12,7 +12,7 @@ struct CupcakeCornerApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-//            URLSessionComponent()
+            FormValidationComponent()
         }
     }
 }
