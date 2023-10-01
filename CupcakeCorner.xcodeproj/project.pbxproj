@@ -17,6 +17,7 @@
 		CE3AD8B72AC9CED700713C4D /* FormValidationComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3AD8B62AC9CED700713C4D /* FormValidationComponent.swift */; };
 		CE6647A72AC9FD9F0004E1D0 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6647A62AC9FD9F0004E1D0 /* Order.swift */; };
 		CE6647A92ACA02050004E1D0 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6647A82ACA02040004E1D0 /* AddressView.swift */; };
+		CE6647AB2ACA06430004E1D0 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6647AA2ACA06430004E1D0 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		CE3AD8B62AC9CED700713C4D /* FormValidationComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormValidationComponent.swift; sourceTree = "<group>"; };
 		CE6647A62AC9FD9F0004E1D0 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		CE6647A82ACA02040004E1D0 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		CE6647AA2ACA06430004E1D0 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				CE2BCF492AC9A5C400C8650C /* CupcakeCornerApp.swift */,
 				CE2BCF4B2AC9A5C400C8650C /* ContentView.swift */,
 				CE6647A82ACA02040004E1D0 /* AddressView.swift */,
+				CE6647AA2ACA06430004E1D0 /* CheckoutView.swift */,
 				CE6647A62AC9FD9F0004E1D0 /* Order.swift */,
 				CE2BCF572AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift */,
 				CE2BCF592AC9B49300C8650C /* URLSessionComponent.swift */,
@@ -163,6 +166,7 @@
 				CE6647A92ACA02050004E1D0 /* AddressView.swift in Sources */,
 				CE2BCF582AC9B35200C8650C /* CodableForPublishedPropertiesComponent.swift in Sources */,
 				CE6647A72AC9FD9F0004E1D0 /* Order.swift in Sources */,
+				CE6647AB2ACA06430004E1D0 /* CheckoutView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
