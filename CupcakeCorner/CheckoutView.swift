@@ -31,6 +31,8 @@ struct CheckoutView: View {
             confirmationMessage = "Your order for \(decodedOder.quantity) x \(Order.types[decodedOder.type].lowercased()) cupcakes is on its way."
             showingConfirmation = true
         } catch {
+            confirmationMessage = "Check your internet connection"
+            showingConfirmation = true
             print("Checkout Failed!")
         }
     }
